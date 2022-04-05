@@ -1,0 +1,21 @@
+C:\Users\ROG\documents\visual studio 2010\Projects\AplikasiCuciMobil\AplikasiCuciMobil\bin\Debug\AplikasiCuciMobil.exe
+C:\Users\ROG\documents\visual studio 2010\Projects\AplikasiCuciMobil\AplikasiCuciMobil\bin\Debug\AplikasiCuciMobil.pdb
+C:\Users\ROG\documents\visual studio 2010\Projects\AplikasiCuciMobil\AplikasiCuciMobil\bin\Debug\AplikasiCuciMobil.xml
+C:\Users\ROG\documents\visual studio 2010\Projects\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.Form1.resources
+C:\Users\ROG\documents\visual studio 2010\Projects\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.Resources.resources
+C:\Users\ROG\documents\visual studio 2010\Projects\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.vbproj.GenerateResource.Cache
+C:\Users\ROG\documents\visual studio 2010\Projects\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.exe
+C:\Users\ROG\documents\visual studio 2010\Projects\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.xml
+C:\Users\ROG\documents\visual studio 2010\Projects\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.pdb
+I:\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.exe
+I:\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.xml
+I:\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.pdb
+I:\AplikasiCuciMobil\AplikasiCuciMobil\bin\Debug\AplikasiCuciMobil.exe
+I:\AplikasiCuciMobil\AplikasiCuciMobil\bin\Debug\AplikasiCuciMobil.pdb
+I:\AplikasiCuciMobil\AplikasiCuciMobil\bin\Debug\AplikasiCuciMobil.xml
+I:\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.Form1.resources
+I:\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.Resources.resources
+I:\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.vbproj.GenerateResource.Cache
+E:\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.exe
+E:\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.xml
+E:\AplikasiCuciMobil\AplikasiCuciMobil\obj\x86\Debug\AplikasiCuciMobil.pdb
